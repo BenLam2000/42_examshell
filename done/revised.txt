@@ -1,0 +1,24 @@
+// level 1
+ft_strcspn
+
+// level 2
+add_prime_sum
+ft_range
+ft_rrange
+paramsum
+print_hex
+str_capitalizer
+rstr_capitalizer
+ft_atoi_base
+tab_mult
+ft_list_size
+epur_str
+expand_str
+hidenp
+pgcd
+lcm
+
+// level 3
+flood fill
+fprime
+ft_split
